@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6611964a7e163cded5091bc9"
+  },
+  "title": "Túi xách da bò màu xanh rêu",
+  "price": 3650000,
+  "description": "Được chăm chút, tỉ mỉ từng đường kim mũi chỉ, chất liệu da cao cấp nhập khẩu bền đẹp, với thiết kế mới nhất năm nay chắc chắn sẽ chiếm được cảm tình của rất nhiều quý cô bởi vẻ đẹp thanh lịch, duyên dáng và dễ dàng biến tấu với mọi trang phục.",
+  "imagePath": "https://product.hstatic.net/200000574651/product/_0065_dld28-001lm__1__0d82a77e35334fc8b2dd3df41405a10e_f7c130a40738435aa538a2d1c35e2104_master.jpg"
+},
+{
+  "_id": {
+    "$oid": "6611964a7e163cded5091bca"
+  },
+  "title": "Túi xách da bò đeo chéo",
+  "price": 3650000,
+  "description": "Được chăm chút, tỉ mỉ từng đường kim mũi chỉ, chất liệu da cao cấp nhập khẩu bền đẹp, với thiết kế mới nhất năm nay chắc chắn sẽ chiếm được cảm tình của rất nhiều quý cô bởi vẻ đẹp thanh lịch, duyên dáng và dễ dàng biến tấu với mọi trang phục.",
+  "imagePath": "https://louiskimmi.com/wp-content/uploads/2019/05/tui-deo-hong-ipad-da-bo-cao-cap-LK02.jpg"
+},
+{
+  "_id": {
+    "$oid": "6611964a7e163cded5091bcb"
+  },
+  "title": "Túi da vegai thiết kế đẹp",
+  "price": 3650000,
+  "description": "Túi da bò của ALC là một dòng sản phẩm phụ kiện cao cấp và sang trọng, được làm từ chất liệu da bò thật tự nhiên và chế tác bằng kỹ thuật khâu thủ công tinh tế. Với thiết kế cổ điển và sự tôn trọng đối với từng chi tiết, các loại túi này không chỉ làm cho phong cách của bạn trở nên sang trọng mà còn giữ cho đồ của bạn được bảo vệ một cách an toàn.",
+  "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrXhtwbiR9r8y436sE03euFUtHY_z4whbktGlUHWGNw&s"
+},
+{
+  "_id": {
+    "$oid": "6611964a7e163cded5091bcc"
+  },
+  "title": "Túi xách nữ cao cấp thiết kế VLS",
+  "price": 2350000,
+  "description": "Sản phẩm được làm từ chất liệu da bò Epsom cao cấp, đây là một chất liệu da bò quen thuộc và thường được nhiều thương hiệu lớn sử dụng để sản xuất túi, điểm nổi bật của chất liệu này đó là bề mặt da có những đường vân đan chéo, chất da dày dặn, không còn những vết nhăn của da tự nhiên. ",
+  "imagePath": "https://www.gento.vn/wp-content/uploads/2023/05/tui-xach-nu-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6611964a7e163cded5091bcd"
+  },
+  "title": "Túi xách nữ cao cấp phối màu be nâu ",
+  "price": 4050000,
+  "description": "Thiết kế bên trong túi gồm ba ngăn lớn để đựng giấy tờ, tài liệu, laptop cùng với hai ngăn nhỏ để đựng tiền mặt, son, nước hoa, chìa khóa và các vật dụng nhỏ khác. Khoá hít tiện lợi giúp bạn dễ dàng cất, lấy đồ một cách thuận tiện. Túi được trang bị bốn dây xách, gồm hai dây xách trong dài hơn và hai dây xách ngoài ngắn hơn, giúp bạn thoải mái thay đổi phong cách đeo phù hợp với từng tình huống và trang phục.",
+  "imagePath": "https://xitoshops.com/wp-content/uploads/2023/01/PHAN-MAT-TRUOC-PHIEN-BAN-MAU-NAU-CUA-TUI-HERMES-BIRKIN-SIEU-CAP.jpg"
+},
+{
+  "_id": {
+    "$oid": "66294dcc614b361a1846a520"
+  },
+  "title": "Túi bucket màu be vàng Cindy",
+  "price": 500000,
+  "description": "Túi bucket màu be vàng Cindy toả sáng một cách nhẹ nhàng với gam màu be dịu dàng, nữ tính. Từng lớp chần chỉ sắc nét trên nền chất liệu da bò nguyên miếng sẽ nâng tầm bộ trang phục",
+  "imagePath": "https://kat.vn/wp-content/uploads/2024/03/tui-bucket-mau-be-vang-cindy-da-that-2-100x100.jpg"
+},
+{
+  "_id": {
+    "$oid": "66294dcc614b361a1846a521"
+  },
+  "title": "Túi bucket Gracie màu trắng mix nâu",
+  "price": 1500000,
+  "description": "Tham khảo ngay mẫu túi bucket màu trắng phối nầu Gracie da thật quý phái, tôn lên vẻ đẹp nữ tính và sang trọng của người phụ nữ Á Đông.",
+  "imagePath": "https://kat.vn/wp-content/uploads/2022/11/tui-bucket-da-that-Kat-Gracie-36.jpg"
+},
+{
+  "_id": {
+    "$oid": "66294dcc614b361a1846a522"
+  },
+  "title": "Túi đeo chéo da thật Elle màu trắng phối nâu",
+  "price": 2500000,
+  "description": "Túi đeo chéo màu trắng phối nâu Elle được thiết kế tinh tế với các đường cắt phóng khoáng trên chất liệu da bò nguyên miếng. Dáng túi hình thang độc đáo kết hợp với phần dây xích bắt mắt phía trước giúp bạn toả sáng giữa đám đông.",
+  "imagePath": "https://kat.vn/wp-content/uploads/2023/10/tui-nu-deo-cheo-da-that-Kat-Elle-2-100x100.png"
+},
+{
+  "_id": {
+    "$oid": "66294dcc614b361a1846a523"
+  },
+  "title": "Túi kẹp nách da thật màu đỏ",
+  "price": 1300000,
+  "description": "Túi kẹp nách màu đỏ Flora da thật tạo nên vẻ ngoài nổi bật với điểm nhấn rực rỡ, quyến rũ từ sắc đỏ kết hợp với chất liệu da cao cấp, bền bỉ",
+  "imagePath": "https://kat.vn/wp-content/uploads/2023/11/tui-kep-nach-da-that-Kat-Flora-45.jpg"
+},
+{
+  "_id": {
+    "$oid": "66294dcc614b361a1846a524"
+  },
+  "title": "Túi chần trám da thật Sophia màu beige",
+  "price": 1000000,
+  "description": "Túi chần trám màu beige Sophia da thật mang nét đẹp nữ tính, cổ điển và tôn lên từng đường cong mềm mại của người phụ nữ.",
+  "imagePath": "https://kat.vn/wp-content/uploads/2022/07/tui-kep-nach-da-that-Kat-Sophia-33.jpg"
+},
+{
+  "_id": {
+    "$oid": "662a06a7aeaa809e81857507"
+  },
+  "title": "Túi da đựng máy tính bảng đen",
+  "price": 1500000,
+  "description": "Túi  Da Đựng Máy Tính Bảng ĐEN  mang vẻ ngoài tinh giản tối đa nhưng rất hợp thời. Túi được làm từ da bò cao cấp có độ mịn, mềm, trơn, ít bị thay đổi về màu sắc và bề mặt sau một thời gian dài sử dụng.",
+  "imagePath": "https://vuadasaigon.com/images/detailed/8/tui_da_dung_may_tinh_bang_csd91d_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "662a06a7aeaa809e81857508"
+  },
+  "title": "Túi Bao Tử Da Bò Nhỏ Gọn Màu Đen",
+  "price": 2800000,
+  "description": "Túi Bao Tử Da Bò Nhỏ Gọn Màu Đen được thiết kế hướng đến phong cách trẻ trung năng động nhưng không kém phần cá tính không chỉ là phụ kiện mang tính thời trang mà còn mang đến sự tiện lợi cho người dùng",
+  "imagePath": "https://vuadasaigon.com/images/thumbnails/480/480/detailed/5/tui_bao_tu_da_bo_nho_gon_mau_den_db152_5.jpg"
+},
+{
+  "_id": {
+    "$oid": "662a06a7aeaa809e81857509"
+  },
+  "title": "Túi Da Công Sở Da Bò TOGO Cao Cấp",
+  "price": 3000000,
+  "description": "Chất liệu bền - kỹ thuật gia công cao - thẩm mỹ tinh tế - dây mỏng mềm. Chế tác thủ công handmade tinh xảo, khâu tay từng đường chỉ tinh tế.",
+  "imagePath": "https://product.hstatic.net/1000397717/product/435923061_724629929837866_6820518196375734363_n_279c095774424dd284d76782c8909179_master.jpg"
+},
+{
+  "_id": {
+    "$oid": "662a06a7aeaa809e8185750a"
+  },
+  "title": "Túi Xách Nữ Da Đeo Chéo & Xách Tay",
+  "price": 2500000,
+  "description": "Với đường vân rõ rệt và độ mềm, dẻo và nẩy nên da bò togo là sự lựa chọn hoàn hảo cho bạn nếu đang tìm kiếm một chất liệu tốt, bền đẹp dễ dàng bảo quản. Đặc biệt là khi mang vật nặng mà chất da không bị biến dạng nên rất ưa chuộng hiện nay.",
+  "imagePath": "https://product.hstatic.net/1000397717/product/434372346_717965310504328_6200835625538282201_n_dc5590cd0a0f446dbdce82eb0fd28273_master.jpg"
+},
+{
+  "_id": {
+    "$oid": "662a06a7aeaa809e8185750b"
+  },
+  "title": "Túi Da Đeo Chéo & Xách Tay Phong Cách Hiện Đại Màu Trắng",
+  "price": 3500000,
+  "description": "Chất liệu bền - kỹ thuật gia công cao - thẩm mỹ tinh tế - dây mỏng mềm. Chế tác thủ công handmade tinh xảo, khâu tay từng đường chỉ tinh tế.",
+  "imagePath": "https://product.hstatic.net/1000397717/product/o1cn012wbyqh1m4xitbkirw___3074981381-0-cib_5242570bf19547408f29ff147638e78b_master.jpg"
+}]
